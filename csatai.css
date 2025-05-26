@@ -113,7 +113,6 @@ table {
     }
     
     #elem1 img{
-        height: fit-content;
         width: 100%;
         margin-right: auto;
         margin-left: auto;
@@ -132,7 +131,6 @@ table {
     
     
     #elem2 img{
-        height: fit-content;
         width: 105%;
         border-radius: 1.5rem;
         margin-left: auto;
@@ -150,7 +148,6 @@ table {
     
     
     #elem3 img{
-        height: fit-content;
         width: 105%;
         border-radius: 1.5rem;
         margin-left: auto;
