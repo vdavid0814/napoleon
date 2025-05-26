@@ -159,12 +159,13 @@ table {
     }
 
 
-    iframe {
-    border-radius: 1rem;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 1rem auto;
+    elem3 iframe {
+    border-radius: 1.5rem;
+    widht: 50%
+    ;
+    
+        
+
 }
 
 }
